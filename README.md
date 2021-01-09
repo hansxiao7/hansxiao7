@@ -4,9 +4,10 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 
 ## Courses Currently Taking
 * CS 6400: Database Systems Concepts and Design
+  - Homework and projects [here](https://github.com/hansxiao7/CS6400)
 
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
-  - Homework and Porject [here](https://github.com/hansxiao7/ML2020)
+  - Homework and projects [here](https://github.com/hansxiao7/ML2020)
 ## Projects
 
 ## Courses Have Been Taken🌱
