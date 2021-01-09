@@ -1,4 +1,4 @@
-### Yoooo, this is Han Xiao 👋
+# Yoooo, this is Han Xiao 👋
 
 My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021. In my Github, I will share my projects and notes of courses in OMSCS, and also my codes for Leetcode and Kaggle. Hope you enjoy it!
 
