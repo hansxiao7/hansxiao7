@@ -10,11 +10,11 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   - Homework and projects [here](https://github.com/hansxiao7/ML2020)
 ## Projects
 
-## Courses Have Been Taken🌱
+## Courses Taken🌱
 
 ## Fun Facts⚡
 * I am a structural engineer in CA
-* I had a PhD and PE license
+* I have a PhD and PE license
 * I have a cute cat, whose name is 肥孬 （fat badass)
 
 <!--
