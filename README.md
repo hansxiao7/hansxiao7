@@ -10,8 +10,8 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   - Homework and projects [here](https://github.com/hansxiao7/ML2020)
   
 ## Coding Progress
-* [![Machine Learning in Action](http://progressed.io/bar/10)](https://github.com/hansxiao7/Machine-Learning-in-Action)
-* [![ML2020 Projects](http://progressed.io/bar/20)](https://github.com/hansxiao7/ML2020)
+* [![Machine Learning in Action](https://progress-bar.dev/<10>)](https://github.com/hansxiao7/Machine-Learning-in-Action)
+* [![ML2020 Projects](https://progress-bar.dev/<20>)](https://github.com/hansxiao7/ML2020)
 
 ## Projects
 
