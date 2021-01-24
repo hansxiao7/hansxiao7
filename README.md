@@ -8,6 +8,11 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
   - Homework and projects [here](https://github.com/hansxiao7/ML2020)
+  
+## Coding Progress
+* [![Machine Learning in Action](http://progressed.io/bar/10)](https://github.com/hansxiao7/Machine-Learning-in-Action)
+* [![ML2020 Projects](http://progressed.io/bar/20)](https://github.com/hansxiao7/ML2020)
+
 ## Projects
 
 ## Courses Taken🌱
