@@ -14,7 +14,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 
 ![27](https://progress-bar.dev/93) [ML2020](https://github.com/hansxiao7/ML2020)
 ## Projects
-
+* [Stock Price Predictiopn](https://github.com/hansxiao7/Stcok-Price-Prediction)
 ## Courses Taken🌱
 
 ## Fun Facts⚡
