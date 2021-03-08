@@ -6,8 +6,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * CS 6400: Database Systems Concepts and Design
   - Homework and projects [here](https://github.com/hansxiao7/CS6400)
 
-* ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
-  - Homework and projects [here](https://github.com/hansxiao7/ML2020)
+
   
 ## Coding Progress
 ![10](https://progress-bar.dev/20) [Machine Learning in Action](https://github.com/hansxiao7/Machine-Learning-in-Action) 
@@ -15,7 +14,8 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 ## Projects
 * [Stock Price Predictiopn](https://github.com/hansxiao7/Stock-Price-Prediction)
 ## Courses Taken🌱
-
+* ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
+  - Homework and projects [here](https://github.com/hansxiao7/ML2020)
 ## Fun Facts⚡
 * I am a structural engineer in CA
 * I have a PhD and PE license
