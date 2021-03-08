@@ -12,7 +12,6 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 ## Coding Progress
 ![10](https://progress-bar.dev/20) [Machine Learning in Action](https://github.com/hansxiao7/Machine-Learning-in-Action) 
 
-![27](https://progress-bar.dev/93) [ML2020](https://github.com/hansxiao7/ML2020)
 ## Projects
 * [Stock Price Predictiopn](https://github.com/hansxiao7/Stock-Price-Prediction)
 ## Courses Taken🌱
