@@ -5,7 +5,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 ## Courses Currently Taking
 * CS 6400: Database Systems Concepts and Design
   - Homework and projects [here](https://github.com/hansxiao7/CS6400)
-
+* CS 229: [Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html) by Stanford University
 
   
 ## Coding Progress
