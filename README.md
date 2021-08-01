@@ -3,7 +3,7 @@
 My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021. In my Github, I will share my projects and notes of courses in OMSCS, and also my codes for Leetcode and Kaggle. Hope you enjoy it!
 
 ## Courses Currently Taking
-* CS 7642: Reinforcement Learning
+
 
   
 ## Coding Progress
@@ -17,6 +17,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * CS 6400: Database Systems Concepts and Design
   - Homework and projects [here](https://github.com/hansxiao7/CS6400)
 * CS 229: [Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html) by Stanford University
+* CS 7642: Reinforcement Learning
 ## Leetcode
 Updating
 ## Fun Facts⚡
