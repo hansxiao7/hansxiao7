@@ -13,7 +13,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * Machine Learning and Reinforcement Learning:
   - [Stock Price Predictiopn with GAN](https://github.com/hansxiao7/Stock-Price-Prediction)
   - [LunarLander-v2 with Deep Q-learning]()
-* MySQL
+* Flask + MySQL
   - [Store Stock Online Management System]()
 ## Courses Taken🌱
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
