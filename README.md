@@ -11,6 +11,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 
 ## Projects
 * Machine Learning and Reinforcement Learning:
+  - [Parametric Studies on Reinforced Concrete Progressive Collapse Using MLP](https://github.com/hansxiao7/Parametric-Studies-on-Progressive-Collapse)(Part of Ph.D. dissertation) 
   - [Stock Price Predictiopn with GAN](https://github.com/hansxiao7/Stock-Price-Prediction)
   - [LunarLander-v2 with Deep Q-learning](https://github.com/hansxiao7/LunarLanderv2-with-Deep-Q-Learning)
   - [Competitive Game with Correlated-Q Learning](https://github.com/hansxiao7/Competitve-Game-with-CE-Q)
