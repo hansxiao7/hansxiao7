@@ -13,6 +13,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * Machine Learning and Reinforcement Learning:
   - [Stock Price Predictiopn with GAN](https://github.com/hansxiao7/Stock-Price-Prediction)
   - [LunarLander-v2 with Deep Q-learning](https://github.com/hansxiao7/LunarLanderv2-with-Deep-Q-Learning)
+  - [Competitive Game with Correlated-Q Learning](https://github.com/hansxiao7/Competitve-Game-with-CE-Q)
 * Flask + MySQL
   - [Store Stock Online Management System](https://github.com/hansxiao7/Store-Management-System-MySQL)
 ## Courses Taken🌱
