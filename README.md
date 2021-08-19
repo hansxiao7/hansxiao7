@@ -17,6 +17,9 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   - [Competitive Game with Correlated-Q Learning](https://github.com/hansxiao7/Competitve-Game-with-CE-Q)
 * Flask + MySQL
   - [Store Stock Online Management System](https://github.com/hansxiao7/Store-Management-System-MySQL)
+
+## Just for fun😄
+* JS: [Coin Game](https://github.com/hansxiao7/Coin_Game)
 ## Courses Taken🌱
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
   - Homework and projects [here](https://github.com/hansxiao7/ML2020)
@@ -24,7 +27,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   - Homework and projects [here](https://github.com/hansxiao7/CS6400)
 * CS 229: [Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html) by Stanford University
 * CS 7642: Reinforcement Learning
-## Leetcode
+## Leetcode🤔
 Updating
 ## Fun Facts⚡
 * I am a structural engineer in CA
