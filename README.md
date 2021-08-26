@@ -3,7 +3,8 @@
 My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021. In my Github, I will share my projects and notes of courses in OMSCS, and also my codes for Leetcode and Kaggle. Hope you enjoy it!
 
 ## Courses Currently Taking
-
+* CS6250: Computer Networks
+* CS6310: Software Architecture & Design
 
   
 ## Coding Progress
