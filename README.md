@@ -17,6 +17,8 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   - [Competitive Game with Correlated-Q Learning](https://github.com/hansxiao7/Competitve-Game-with-CE-Q)
 * Flask + MySQL
   - [Store Stock Online Management System](https://github.com/hansxiao7/Store-Management-System-MySQL)
+* JavaScript
+  - [Auto-complete with JS: Movie Fight](https://github.com/hansxiao7/Movie-Fight)
 
 ## Just for fun😄
 * JS
