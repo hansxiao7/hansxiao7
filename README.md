@@ -21,10 +21,6 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * JavaScript
   - [Auto-complete with JS: Movie Fight](https://github.com/hansxiao7/Movie-Fight)
 
-## Just for fun😄
-* JS
-  - [Coin Game](https://github.com/hansxiao7/Coin_Game)
-  - [Timer](https://github.com/hansxiao7/Timer)
 ## Courses Taken🌱
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
   - Homework and projects [here](https://github.com/hansxiao7/ML2020)
