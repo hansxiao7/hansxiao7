@@ -21,6 +21,8 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * JavaScript Projects
   - Details are available [here](https://github.com/hansxiao7/JS-Projects)
   - Full-stack web, developed with node.js and express: [E-commerce website](https://github.com/hansxiao7/JS-Projects/tree/main/E-commerce)
+  - Testing framework for browsers, developed with node.js and JsDom: [Testing Framework](https://github.com/hansxiao7/JS-Projects/tree/main/tme)
+    - Similar functions with Mocha and chai
 
 ## Courses Taken🌱
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
