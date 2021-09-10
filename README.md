@@ -20,6 +20,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   - [Store Stock Online Management System](https://github.com/hansxiao7/Store-Management-System-MySQL)
 * JavaScript Projects
   - Details are available [here](https://github.com/hansxiao7/JS-Projects)
+  - Full-stack web, developed with node.js and express: [E-commerce website](https://github.com/hansxiao7/JS-Projects/tree/main/E-commerce)
 
 ## Courses Taken🌱
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
