@@ -9,7 +9,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   
 ## Coding Progress
 * ![1](https://progress-bar.dev/1) E-Commerce: Full-stack web development with Springboot and Vue
-* ![30](https://progress-bar.dev/30) Personal Blogs: Full-stack web development with Springboot and Semantic UI
+* ![50](https://progress-bar.dev/50) Personal Blogs: Full-stack web development with Springboot and Semantic UI
 
 ## Projects
 * Machine Learning and Reinforcement Learning:
