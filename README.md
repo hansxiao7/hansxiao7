@@ -9,7 +9,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   
 ## Coding Progress
 * ![1](https://progress-bar.dev/1) E-Commerce: Full-stack web development with Springboot and Vue
-* ![50](https://progress-bar.dev/50) Personal Blogs: Full-stack web development with Springboot and Semantic UI
+* ![50](https://progress-bar.dev/50) 
 
 ## Projects
 * Machine Learning and Reinforcement Learning:
@@ -24,6 +24,8 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
   - Full-stack web, developed with node.js and express: [E-commerce website](https://github.com/hansxiao7/JS-Projects/tree/main/E-commerce)
   - Testing framework for browsers, developed with node.js and JsDom: [Testing Framework](https://github.com/hansxiao7/JS-Projects/tree/main/tme)
     - Similar functions with Mocha and chai
+* Spring Boot + Semantic UI + MySQL
+  - [Personal Blogs](https://github.com/hansxiao7/Personal_blog): Full-stack web development with Springboot and Semantic UI
 
 ## Courses Taken🌱
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
