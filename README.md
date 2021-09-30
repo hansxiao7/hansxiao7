@@ -8,7 +8,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 
   
 ## Coding Progress
-* ![1](https://progress-bar.dev/1) Lightning Deal E-Commerce: Spring Boot + MyBatis + Redis
+* ![60](https://progress-bar.dev/1) Lightning Deal E-Commerce: Spring Boot + MyBatis + Redis
 
 ## Projects
 * Machine Learning and Reinforcement Learning:
