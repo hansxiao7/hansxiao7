@@ -3,12 +3,11 @@
 My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021. In my Github, I will share my projects and notes of courses in OMSCS, and also my codes for Leetcode and Kaggle. Hope you enjoy it!
 
 ## Courses Currently Taking
-* CS6310: Software Architecture & Design
-* CS7638: Artificial Intelligence for Robotics
+
 
   
 ## Coding Progress
-* ![60](https://progress-bar.dev/60) Lightning Deal E-Commerce: Spring Boot + MyBatis + Redis
+* ![10](https://progress-bar.dev/10) E-commerce micro service: 谷粒商城
 
 ## Projects
 * Machine Learning and Reinforcement Learning:
@@ -32,10 +31,12 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * CS 6400: Database Systems Concepts and Design
 * CS 229: [Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html) by Stanford University
 * CS 7642: Reinforcement Learning
+* CS6310: Software Architecture & Design
+* CS7638: Artificial Intelligence for Robotics
 ## Leetcode🤔
 Updating
 ## Fun Facts⚡
-* I am a structural engineer in CA
+* I am a SDE in CA
 * I have a PhD and PE license
 * I have a cute cat, whose name is 肥孬 （fat badass)
 
