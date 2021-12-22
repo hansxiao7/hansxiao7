@@ -27,6 +27,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 * Django + Redis + Thrift
   - [War of Wizards](https://github.com/hansxiao7/acapp): a web-based game, supporting multiplayer or single player;
   - Game link: https://app440.acapp.acwing.com.cn/
+  - Thrift C++-Server/Py-Client game matching system: [here](https://github.com/hansxiao7/thrift_matching_system)
 
 ## Courses Taken🌱
 * ML2020: Free Machine Learning Course by Hung-yi Lee from National Taiwan University: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
