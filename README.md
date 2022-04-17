@@ -7,7 +7,7 @@ My name is Han Xiao, currently an OMSCS student in GT starting from Spring 2021.
 
   
 ## Coding Progress
-* ![20](https://progress-bar.dev/20) Payment - Order Microservice with Spring Cloud
+* ![20](https://progress-bar.dev/100) Payment - Order Microservice with Spring Cloud
 
 ## Projects
 * Machine Learning and Reinforcement Learning:
