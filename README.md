@@ -2,7 +2,7 @@
 
 Fractional CTO at **[NexusQuant](https://nexusquant.co/)** and **[Makea](https://www.makea.co/)**, Senior Engineer at **Carta**, previously Amazonian.
 
-PhD in Structural Engineering, UW Madison · PE License
+PhD in Structural Engineering, UW Madison · MS, Georgia Tech · PE License
 
 ## What I'm building
 - **[NexusQuant](https://nexusquant.co/)** — quantitative finance platform
